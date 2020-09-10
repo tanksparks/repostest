@@ -1,0 +1,8 @@
+﻿'DansGame.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Private.CoreLib.dll'. 
+'DansGame.exe' (CoreCLR: clrhost): Loaded 'D:\Dan\visualStudio\gitrepos\DansGame\bin\Debug\netcoreapp3.1\DansGame.dll'. Symbols loaded.
+'DansGame.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Runtime.dll'. 
+'DansGame.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Runtime.Extensions.dll'. 
+'DansGame.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Console.dll'. 
+'DansGame.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Threading.dll'. 
+'DansGame.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Text.Encoding.Extensions.dll'. 
+The program '[26912] DansGame.exe' has exited with code 0 (0x0).

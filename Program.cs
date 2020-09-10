@@ -8,19 +8,24 @@ namespace DansGame
     {
         static void Main(string[] args)
         {
+            Random r = new Random();
+            int num = r.Next(100);
+            Console.WriteLine("Num:" + num);
             string userInput;
-            Console.WriteLine("Enter a number from 0 to 100");
-            userInput = Console.ReadLine();
-            if (userInput == "5")
+            for (int x = 0; x < 20; x++)
             {
-                Console.WriteLine("You win!!!");
+                Console.WriteLine("Enter a number from 0 to 100");
+                userInput = Console.ReadLine();
 
+                if (userInput == num.ToString())
+                {
+                    Console.WriteLine("You win!!!");
+                    break;
+                }
+                else Console.WriteLine("You lose!!");
             }
-            else Console.WriteLine("You lose!!");
-
+            Console.WriteLine("Game Over!");
             Console.ReadLine();
-
         }
-
     }
 }
