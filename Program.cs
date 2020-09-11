@@ -10,6 +10,7 @@ namespace DansGame
         {
             Random r = new Random();
             int num = r.Next(100);
+            Console.WriteLine("Sept 11, 2020");
             Console.WriteLine("Num:" + num);
             string userInput;
             for (int x = 0; x < 20; x++)
