@@ -8,6 +8,7 @@ namespace DansGame
     {
         static void Main(string[] args)
         {
+            // Doing this on Basement computer
             Random r = new Random();
             int num = r.Next(100);
             Console.WriteLine("Game was tested");
